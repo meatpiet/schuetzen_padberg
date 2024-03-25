@@ -1,0 +1,109 @@
+baseURL = "https://schuetzenverein-padberg.de/"
+languageCode = "de"
+publishDir = "docs"
+title = "Schützenverein Padberg 1828 e.V."
+theme = "digitalgarden"
+
+googleAnalytics = "UA-PROPERTY_ID"
+
+[Params]
+  description = "Internetseite des Schützenvereins Padberg"
+  enableSearch = true
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'Interessantes'
+  params.header = true
+  weight = 2
+[[menu.main]]
+  name = 'Aktuelles'
+  url = '/aktuelles'
+  weight = 3
+[[menu.main]]
+  name = 'Galerie'
+  url = '/galerie'
+  weight = 4
+[[menu.main]]
+  name = 'Verein'
+  params.header = true
+  weight = 7
+[[menu.main]]
+  name = 'Königspaare'
+  url = '/koenigspaare'
+  weight = 8
+[[menu.main]]
+  name = 'Vorstand'
+  url = '/vorstand'
+  weight = 8
+[[menu.main]]
+  name = 'Geschichte'
+  url = '/geschichte'
+  weight = 8
+[[menu.main]]
+  name = 'Satzung'
+  url = '../../verein/Satzung.pdf'
+  weight = 9
+[[menu.main]]
+  name = 'Beitrittserklärung'
+  url = '../../verein/Beitrittserklärung.pdf'
+  weight = 9
+[[menu.main]]
+  name = 'Schützenhalle'
+  params.header = true
+  weight = 10
+[[menu.main]]
+  name = 'Vermietung'
+  url = '/vermietung'
+  weight = 11
+[[menu.main]]
+  name = 'Mietvertrag'
+  url = '../../schuetzenhalle/Mietvertrag-Halle.pdf'
+  weight = 12
+[[menu.main]]
+  name = 'Sonstiges'
+  params.header = true
+  weight = 13
+[[menu.main]]
+  name = 'Kontakt'
+  url = '/kontakt'
+  weight = 14
+[[menu.main]]
+  name = 'Impressum'
+  url = '/impressum'
+  weight = 15
+[[menu.main]]
+  name = 'Links'
+  params.header = true
+  weight = 20
+[[menu.main]]
+  name = 'TuS Padberg 09 e.V.'
+  url = 'http://www.tuspadberg.de/'
+  weight = 21
+[[menu.main]]
+  name = 'Förderverein Ring Padberg'
+  url = 'https://www.ring-padberg.de/'
+  weight = 22
+[[menu.main]]
+  name = 'Kolpingsfamilie Padberg'
+  url = 'https://vor-ort.kolping.de/kolpingsfamilie-padberg/'
+  weight = 22
+[[menu.main]]
+  name = 'Familienverband Padberg'
+  url = 'http://www.sgv-groenebach.de/padberg/index.htm'
+  weight = 23
+[[menu.main]]
+  name = 'Kreisschützenbund Brilon'
+  url = 'https://ksb-brilon.info'
+  weight = 24
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true
