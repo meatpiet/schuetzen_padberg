@@ -21,11 +21,7 @@ jobs:
 
       - name: Deploy
         run: |
-          if [ ! -d "docs" ]; then
-            mkdir docs
-          fi
-          mv public/* docs
+          echo "Deploying Hugo website..."
+          mv docs/* ./
           echo "Your Hugo website has been built and deployed!"
-        shell: /usr/bin/bash -e {0}
-        env:
-          HUGO_VERSION: latest
+        shell: bash
