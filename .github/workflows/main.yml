@@ -1,30 +1,31 @@
-- name: Build and Deploy
-  on:
-    push:
-      branches:
-        - master
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout Repository
-          uses: actions/checkout@v2
+name: Build and Deploy
+on:
+  push:
+    branches:
+      - master
 
-        - name: Setup Hugo
-          uses: peaceiris/actions-hugo@v2
-          with:
-            hugo-version: 'latest'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
 
-        - name: Build
-          run: hugo --minify
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
 
-        - name: Deploy
-          run: |
-            if [ ! -d "docs" ]; then
-              mkdir docs
-            fi
-            mv public/* docs
-            echo "Your Hugo website has been built and deployed!"
-          shell: /usr/bin/bash -e {0}
-          env:
-            HUGO_VERSION: latest
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy
+        run: |
+          if [ ! -d "docs" ]; then
+            mkdir docs
+          fi
+          mv public/* docs
+          echo "Your Hugo website has been built and deployed!"
+        shell: /usr/bin/bash -e {0}
+        env:
+          HUGO_VERSION: latest
