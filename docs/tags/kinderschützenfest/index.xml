@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kinderschützenfest on Schützenverein Padberg 1828 e.V.</title>
-    <link>http://localhost:1313/tags/kindersch%C3%BCtzenfest/</link>
+    <link>https://schuetzenverein-padberg.de/tags/kindersch%C3%BCtzenfest/</link>
     <description>Recent content in Kinderschützenfest on Schützenverein Padberg 1828 e.V.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/kindersch%C3%BCtzenfest/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://schuetzenverein-padberg.de/tags/kindersch%C3%BCtzenfest/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Einladung Kinderschützenfest 2023</title>
-      <link>http://localhost:1313/aktuelles/einladung-kinderschuetzenfest-2023/</link>
+      <link>https://schuetzenverein-padberg.de/aktuelles/einladung-kinderschuetzenfest-2023/</link>
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aktuelles/einladung-kinderschuetzenfest-2023/</guid>
+      <guid>https://schuetzenverein-padberg.de/aktuelles/einladung-kinderschuetzenfest-2023/</guid>
       <description>Der Schützenverein Padberg feiert in diesem Jahr am 11.06.2023 zusammen mit dem Kolping das Kolpingfest und Kinderschützenfest.&#xA;Der Schützenverein und der Kolping laden herzlich ein.</description>
     </item>
   </channel>
