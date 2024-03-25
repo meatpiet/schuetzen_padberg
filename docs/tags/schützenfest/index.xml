@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schützenfest on Schützenverein Padberg 1828 e.V.</title>
+    <link>http://localhost:1313/tags/sch%C3%BCtzenfest/</link>
+    <description>Recent content in Schützenfest on Schützenverein Padberg 1828 e.V.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sch%C3%BCtzenfest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Einladung Schützenfest 2023</title>
+      <link>http://localhost:1313/aktuelles/einladung-2023/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aktuelles/einladung-2023/</guid>
+      <description>Der Schützenverein Padberg feiert sein diesjähriges Schützenfest vom 17.05. - 19.05.2023.&#xA;Der Schützenverein, das Königspaar und die Jubelkönigspaare laden herzlich ein.&#xA;Hier finden Sie unsere diesjährige Festschrift.</description>
+    </item>
+  </channel>
+</rss>
