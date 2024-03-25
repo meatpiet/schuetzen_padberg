@@ -1,37 +1,30 @@
-name: Build and Deploy
+- name: Build and Deploy
+  on:
+    push:
+      branches:
+        - master
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout Repository
+          uses: actions/checkout@v2
 
-on:
-  push:
-    branches:
-      - master
+        - name: Setup Hugo
+          uses: peaceiris/actions-hugo@v2
+          with:
+            hugo-version: 'latest'
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+        - name: Build
+          run: hugo --minify
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: 'latest'
-
-      - name: Build
-        run: hugo --minify
-
-      - name: Deploy
-        run: |
-          mkdir docs
-          mv public/* docs
-          echo "Your Hugo website has been built and deployed!"
-        env:
-          HUGO_VERSION: 'latest'
-
-      - name: Commit and Push changes
-        run: |
-          git config --global user.email "<mantaplattenvernichter@gmail.com>"
-          git config --global user.name "meatpiet"
-          git add .
-          git commit -m "Deploy website"
-          git push origin main
+        - name: Deploy
+          run: |
+            if [ ! -d "docs" ]; then
+              mkdir docs
+            fi
+            mv public/* docs
+            echo "Your Hugo website has been built and deployed!"
+          shell: /usr/bin/bash -e {0}
+          env:
+            HUGO_VERSION: latest
