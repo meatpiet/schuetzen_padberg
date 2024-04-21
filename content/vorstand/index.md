@@ -17,10 +17,10 @@ title: Vorstand
 | 2. Kassierer | Dirk Stüttem |
 | Königsoffiziere | Manuel Bader, Peter Störmer |
 | Jubelkönigsoffiziere 25 Jahre | Christopher Brinkmann, Tim Störmer |
-| Jubelkönigsoffiziere 50 Jahre | Lothar Lemberg, Niklas Körner |
+| Jubelkönigsoffizier 50 Jahre | Lothar Lemberg |
 | Zugführer 1. Zug | Andreas Becker |
 | Fähnrich 1. Zug |  Lukas Göbel |
-| Fahnenoffiziere 1. Zug | Nico Mönig |
+| Fahnenoffiziere 1. Zug | Nico Mönig, Christopher Wallberg |
 | Zugführer 2. Zug | Maik Göbel |
 | Fähnrich 2. Zug | Nils Becker |
 | Fahnenoffiziere 2. Zug | Nick Vogtland, Calvin Luckey |
