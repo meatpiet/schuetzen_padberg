@@ -21,5 +21,4 @@ description: Alle Bilder des Schützenfests 2022
 ## Freitag
 {{< details "Bilder anzeigen" >}}
 {{< gallery dir="/images/schuetzenfest2022/Freitag/" />}}
-In Kürze!
 {{< /details >}}
