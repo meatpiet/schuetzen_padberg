@@ -12,10 +12,11 @@ title: Homepage
 Wir freuen uns, Sie auf unserer Internetseite begrüßen zu dürfen und wollen Ihnen hier unseren Verein vorstellen und Ihnen Einblicke in das Padberger Schützenwesen bieten.
 
 ---
-<!--
-{{< figure link="../banner.jpg" >}}
+## Plakat Schützenfest 2024
+{{< figure link="../plakat_2024.jpg" >}}
+
 ---
--->
+
 # Hallenbelegung
 
 Hier sehen Sie auf einen Blick alle Termine des Schützenvereins.
