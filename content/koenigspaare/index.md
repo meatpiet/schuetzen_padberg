@@ -2,11 +2,11 @@
 title: Königspaare
 ---
 
-## Amtierendes Königspaar 2023/2024
-Michael Luckey mit Ehefrau Katrin Luckey
+## Amtierendes Königspaar 2024/2025
+Dominik Walter mit Ehefrau Nadine Walter
 
-## Jungschützenkönig 2023/2024
-Nick Vogtland
+## Jungschützenkönig 2024/2025
+Timo Müller
 
 ## Kaiser 2023/2028
 Reinhard Müller
@@ -28,6 +28,13 @@ Reinhard Müller
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>2024</td>
+    <td>Walter, Dominik</td>
+    <td>Ehefrau Nadine</td>
+    <td>geb. Schmeißer</td>
+    <td>Müller, Timo</td>
+  </tr>
 	<tr>
 		<td>2023</td>
 		<td>Luckey, Michael</td>
