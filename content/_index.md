@@ -12,10 +12,12 @@ title: Homepage
 Wir freuen uns, Sie auf unserer Internetseite begrüßen zu dürfen und wollen Ihnen hier unseren Verein vorstellen und Ihnen Einblicke in das Padberger Schützenwesen bieten.
 
 ---
+
+<!--
 ## Plakat Schützenfest 2024
 {{< figure link="../plakat_2024.jpg" >}}
-
 ---
+-->
 
 # Hallenbelegung
 
