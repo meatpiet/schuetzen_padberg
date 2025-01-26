@@ -4,7 +4,7 @@ publishDir = "docs"
 title = "Schützenverein Padberg 1828 e.V."
 theme = "digitalgarden"
 
-googleAnalytics = "UA-PROPERTY_ID"
+# googleAnalytics = "UA-PROPERTY_ID"
 
 [Params]
   description = "Internetseite des Schützenvereins Padberg"
