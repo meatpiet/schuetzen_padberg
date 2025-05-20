@@ -80,25 +80,29 @@ theme = "digitalgarden"
   params.header = true
   weight = 20
 [[menu.main]]
+  name = 'Unser Padberg'
+  url = 'https://unser-padberg.de/'
+  weight = 21
+[[menu.main]]
   name = 'TuS Padberg 09 e.V.'
   url = 'http://www.tuspadberg.de/'
-  weight = 21
+  weight = 22
 [[menu.main]]
   name = 'Förderverein Ring Padberg'
   url = 'https://www.ring-padberg.de/'
-  weight = 22
+  weight = 23
 [[menu.main]]
   name = 'Kolpingsfamilie Padberg'
   url = 'https://vor-ort.kolping.de/kolpingsfamilie-padberg/'
-  weight = 22
+  weight = 24
 [[menu.main]]
   name = 'Familienverband Padberg'
   url = 'http://www.sgv-groenebach.de/padberg/index.htm'
-  weight = 23
+  weight = 25
 [[menu.main]]
   name = 'Kreisschützenbund Brilon'
   url = 'https://ksb-brilon.info'
-  weight = 24
+  weight = 26
 
 # syntax highlight settings
 [markup]
