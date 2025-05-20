@@ -3,18 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/aktuelles/</loc>
-    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/aktuelles/einladung-2025/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sch%C3%BCtzenfest/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/aktuelles/mitgliederversammlung25/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/mitglieder/</loc>
-    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/aktuelles/klimasieger24/</loc>
@@ -27,9 +33,6 @@
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/aktuelles/einladung-2024/</loc>
-    <lastmod>2024-04-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sch%C3%BCtzenfest/</loc>
     <lastmod>2024-04-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/galerie/schuetzenfest23/</loc>
