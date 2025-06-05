@@ -2,11 +2,11 @@
 title: Königspaare
 ---
 
-## Amtierendes Königspaar 2024/2025
-Dominik Walter mit Ehefrau Nadine Walter
+## Amtierender König 2025/2026
+Christopher Wallberg
 
-## Jungschützenkönig 2024/2025
-Timo Müller
+## Jungschützenkönig 2025/2026
+Sönke Wallmeier
 
 ## Kaiser 2023/2028
 Reinhard Müller
@@ -28,6 +28,13 @@ Reinhard Müller
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>2025</td>
+    <td>Wallberg, Christopher</td>
+    <td></td>
+    <td></td>
+    <td>Wallmeier, Sönke</td>
+  </tr>
   <tr>
     <td>2024</td>
     <td>Walter, Dominik</td>
