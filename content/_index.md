@@ -15,9 +15,9 @@ Wir freuen uns, Sie auf unserer Internetseite begrüßen zu dürfen und wollen I
 
 <!--
 ## Plakat Schützenfest 2025
--->
 {{< figure link="../plakat_2025.jpg" >}}
 ---
+-->
 
 
 # Hallenbelegung
