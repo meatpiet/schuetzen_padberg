@@ -10,18 +10,18 @@ title: Vorstand
 | ---- | ---- |
 | 1. Vorsitzender / Oberst | Michael Luckey |
 | 2. Vorsitzender / Adjutant | Dominik Walter |
-| Hauptmann | Henrik Göbel |
-| 1. Geschäftsführer | Volker Nawroth |
+| Hauptmann | Andreas Becker |
+| 1. Geschäftsführer | Peter Störmer |
 | 2. Geschäftsführer | Andreas Becker |
 | 1. Kassierer | Marc Schlömer |
 | 2. Kassierer | Dirk Stüttem |
-| Königsoffiziere | Manuel Bader, Peter Störmer |
+| Königsoffiziere | Manuel Bader, Lothar Lemberg |
 | Jubelkönigsoffiziere 25 Jahre | Christopher Brinkmann, Tim Störmer |
-| Jubelkönigsoffiziere 50 Jahre | Lothar Lemberg, Sönke Wallmeier |
-| Zugführer 1. Zug | Andreas Becker |
+| Jubelkönigsoffizier 50 Jahre | Sönke Wallmeier |
+| Zugführer 1. Zug | Maik Göbel |
 | Fähnrich 1. Zug |  Lukas Göbel |
 | Fahnenoffiziere 1. Zug | Nico Mönig, Calvin Luckey |
-| Zugführer 2. Zug | Maik Göbel |
+| Zugführer 2. Zug | Nick Vogtland |
 | Fähnrich 2. Zug | Nils Becker |
-| Fahnenoffiziere 2. Zug | Nick Vogtland, Christopher Wallberg |
+| Fahnenoffizier 2. Zug | Christopher Wallberg |
 {{</table>}}
