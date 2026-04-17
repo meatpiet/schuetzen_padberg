@@ -13,12 +13,12 @@ Wir freuen uns, Sie auf unserer Internetseite begrüßen zu dürfen und wollen I
 
 ---
 
-<!--
-## Plakat Schützenfest 2025
-{{< figure link="../plakat_2025.jpg" >}}
+## Plakat Schützenfest 2026
+{{< figure link="../plakat-2026.jpg" >}}
 ---
--->
-
+## Plakat Einfach nur Ballern
+{{< figure link="../einfach-nur-ballern-2026.jpg" >}}
+---
 
 # Hallenbelegung
 
