@@ -44,11 +44,11 @@ theme = "digitalgarden"
   url = '/geschichte'
   weight = 8
 [[menu.main]]
-  name = 'Satzung'
+  name = 'Satzung 🔗'
   url = '../../verein/Satzung.pdf'
   weight = 9
 [[menu.main]]
-  name = 'Beitrittserklärung'
+  name = 'Beitrittserklärung 🔗'
   url = '../../verein/Beitrittserklärung.pdf'
   weight = 9
 [[menu.main]]
@@ -60,7 +60,7 @@ theme = "digitalgarden"
   url = '/vermietung'
   weight = 11
 [[menu.main]]
-  name = 'Mietvertrag'
+  name = 'Mietvertrag 🔗'
   url = '../../schuetzenhalle/Mietvertrag-Halle.pdf'
   weight = 12
 [[menu.main]]

@@ -3,7 +3,7 @@ title: Vorstand
 ---
 
 {{< load-photoswipe >}}
-{{< figure link="../vorstand/Vorstand2022.jpg" >}}
+{{< figure link="../vorstand/Vorstand2026.jpg" >}}
 
 {{<table "table table-striped table-bordered">}}
 | Position | Besetzung |
