@@ -2,11 +2,11 @@
 title: Königspaare
 ---
 
-## Amtierender König 2025/2026
-Christopher Wallberg
+## Amtierendes Königspaar 2026/2027
+Maik Göbel & Anna-Lena Weidemann
 
-## Jungschützenkönig 2025/2026
-Sönke Wallmeier
+## Jungschützenkönig 2026/2027
+Till Wallmeier
 
 ## Kaiser 2023/2028
 Reinhard Müller
@@ -28,6 +28,13 @@ Reinhard Müller
   </tr>
 </thead>
 <tbody>
+<tr>
+    <td>2026</td>
+    <td>Göbel, Maik</td>
+    <td>Weidemann, Anna-Lena</td>
+    <td></td>
+    <td>Wallmeier, Till</td>
+  </tr>
   <tr>
     <td>2025</td>
     <td>Wallberg, Christopher</td>
