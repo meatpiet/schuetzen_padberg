@@ -12,7 +12,11 @@ title: Homepage
 Wir freuen uns, Sie auf unserer Internetseite begrüßen zu dürfen und wollen Ihnen hier unseren Verein vorstellen und Ihnen Einblicke in das Padberger Schützenwesen bieten.
 
 ---
+## 3. Stadtjungschützenschießen 2026
+{{< figure link="../stadtjungschuetzenschiessen-2026.jpg" >}}
 
+<!---
+---
 ## Plakat Schützenfest 2026
 {{< figure link="../plakat-2026.jpg" >}}
 
@@ -25,8 +29,9 @@ Das Schießen findet in der Reihenfolge der eingegangenen Anmeldungen am Mittwoc
 Um die Zeit der Anmeldungen zu verkürzen, kann das Formular bereits vorab ausgefüllt werden.<br>
 
 ## [👉 Hier geht es zum Anmeldebogen](../../aktuelles/images/Anmeldebogen-einfach-nur-ballern_2026.pdf)
-
+-->
 ---
+
 
 # Hallenbelegung
 
